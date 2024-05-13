@@ -1,0 +1,32 @@
+
+
+#drum-machine{
+    width: 90vw;
+    height: 50vh;
+    margin: 0 auto;
+    padding-left: 10vw;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    
+
+}
+#display{
+    color: rgb(37, 34, 35);
+    background: rgba(231, 141, 81, 0.884);
+    width: 50%;
+    height: 95%;
+    text-align: center;
+    font-family: Tahoma;
+    border-radius: 10px;
+    border: 1px solid rgb(231, 209, 12);
+    
+}
+#board{
+    top: 5px;
+    height: 95%;
+}
+p{
+  font-size: x-large; 
+  padding-top: 30px;
+}
